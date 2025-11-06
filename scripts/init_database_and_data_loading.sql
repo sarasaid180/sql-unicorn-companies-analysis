@@ -1,7 +1,7 @@
 -- ===============================================
 -- DESCRIPTION: This script sets up the database, creates the
 --              table, and loads the data from csv file.
-
+--NOTE: !! Make sure to UPDATE THE FILE PATH to the exact location of your CSV file on your machine (Last Step).
 -- ===============================================
 -- PHASE 1: DATABASE INITILAIZATION
 -- ===============================================
